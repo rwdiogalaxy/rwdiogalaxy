@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="right">if the face says nothing, listen to the heartbeat ──★ ˙ ̟🐇 !!</h3>
 
-<!--
-**rwdiogalaxy/rwdiogalaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="200" src="https://64.media.tumblr.com/51d98865d8113e0e00943bf52b85fce5/tumblr_pwtjfx2HE51vpvdbgo1_500.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Olá, eu me chamo Camille! <br><br>★  Cyber Threat Intelligence Analyst @ ThreatX | ClearSale<br>★  Estudante de Defesa Cibernética e Ciência de Dados<br>★  Me especializo na área de Análise de Malware e Ransomware, assim como Criptografia, CTI, Python e Ciência de Dados, buscando uma intersecção entre Estatística e Cibersegurança.<br>★ Atualmente focada em estudar JavaScript e Python.</p>
+
+###
+
+<p align="left">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)</p>
+
+###
