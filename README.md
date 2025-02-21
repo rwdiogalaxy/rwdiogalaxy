@@ -9,7 +9,3 @@
 <p align="left">Olá, eu me chamo Camille! <br><br>★  Cyber Threat Intelligence Analyst @ ThreatX | ClearSale<br>★  Estudante de Defesa Cibernética e Ciência de Dados<br>★  Me especializo na área de Análise de Malware e Ransomware, assim como Criptografia, CTI, Python e Ciência de Dados, buscando uma intersecção entre Estatística e Cibersegurança.<br>★ Atualmente focada em estudar JavaScript e Python.</p>
 
 ###
-
-<p align="left">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)</p>
-
-###
