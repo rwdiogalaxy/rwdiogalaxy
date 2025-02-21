@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">Olá, eu me chamo Camille! <br><br>★  Cyber Threat Intelligence Analyst @ ThreatX | ClearSale<br>★  Estudante de Defesa Cibernética e Ciência de Dados<br>★  Me especializo na área de Análise de Malware e Ransomware, assim como Criptografia, CTI, Python e Ciência de Dados, buscando uma intersecção entre Estatística e Cibersegurança.<br>★ Atualmente focada em estudar JavaScript e Python.</p>
+<p align="left">Olá, eu me chamo Camille! <br><br>★  Estudante de Física, Defesa Cibernética e Ciência de Dados<br>★  Tenho interesse na área de Análise de Malware e Ransomware, assim como Criptografia, CTI, Python e Ciência de Dados, buscando uma intersecção entre Estatística e Cibersegurança.<br>★  Atualmente focada em estudar JavaScript e Python.</p>
 
 ###
